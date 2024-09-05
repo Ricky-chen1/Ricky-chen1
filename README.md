@@ -1,6 +1,6 @@
-### Hi there 👋,I'm Ricky
+## Hi there 👋，I'm Ricky
+- 🔭 Now I'm a student currently majoring in Computer Science(CS) at Fuzhou University, China.
 
-- 🔭 I’m a student currently majoring in Computer Science(CS) at Fuzhou University, China.
 ### 🌱 What I'm currently up to:
 - 🎓 Planning for further studies to expand my knowledge and skills.
 - 🤖 Delving into AI technologies, including machine learning and cross-domain recommendations.
